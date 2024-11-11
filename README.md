@@ -18,3 +18,11 @@ EmailExtract is a simple Bash script that leverages Google Custom Search API to 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/MarcUrbano/EmailExtract.git
+   
+**Remember to replace the placeholder values with your actual credentials before running the script.** 
+
+**Also, ensure that you have the `jq` tool installed. It's a powerful JSON processor that is used to extract information from the API response.**
+
+**For more advanced usage or to automate the process, consider integrating this script into a larger workflow or using a scripting language like Python.**
+
+**Please use this script responsibly and ethically. Avoid abusing the Google Custom Search API and respect website terms of service.**
